@@ -1,0 +1,4 @@
+-cp src
+-lib coconut.vdom
+-main Main
+-js bin/prefab.js
