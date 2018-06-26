@@ -1,4 +1,5 @@
 -cp src
 -lib coconut.vdom
 -main Main
+-dce full
 -js bin/prefab.js
